@@ -1,0 +1,14 @@
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.csproj.CoreCompileInputs.cache
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.AssemblyInfoInputs.cache
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.AssemblyInfo.cs
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\bin\Debug\netcoreapp2.2\rate_limiting.deps.json
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\bin\Debug\netcoreapp2.2\rate_limiting.runtimeconfig.json
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\bin\Debug\netcoreapp2.2\rate_limiting.runtimeconfig.dev.json
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\bin\Debug\netcoreapp2.2\rate_limiting.dll
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\bin\Debug\netcoreapp2.2\rate_limiting.pdb
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.csprojAssemblyReference.cache
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.RazorAssemblyInfo.cache
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.RazorAssemblyInfo.cs
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.RazorTargetAssemblyInfo.cache
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.dll
+C:\Users\imandic\Documents\Projects\rate_limiting\rate_limiting\obj\Debug\netcoreapp2.2\rate_limiting.pdb
